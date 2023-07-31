@@ -1,2 +1,2 @@
-# Analytics-Engineer-Case-Study
-This is the repository used in the "Analytics Engineer" case study.
+# analytics-engineering-recruiting
+This repo houses the base data for the Analytics Engineering take-home assessment given to prospective Engineers.
